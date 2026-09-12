@@ -1,4 +1,4 @@
-<h1 align="center">Yazan's Unblocked Center</h1>
+<h1 align="center">Yazan's math learning Center</h1>
 <img src="images/yazanbanner.png">
   <p align="center">
     Yazan's Unblocked Center; an open source game website that hosts 210+ games with full downloading support, a clean and centralised user interface and no iframe embedding
